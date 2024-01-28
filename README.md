@@ -1,5 +1,5 @@
 # FraudDetection
-Very high dimensional and complex dataset which has almost 500 input features. It is binary classification problem. Detailed anlysis is documented in MLE Capstone PPT.
+Very high dimensional and complex dataset which has almost 500 input features. It is a binary classification problem. Detailed anlysis is documented in MLE Capstone PPT.
 ### This problem is taken from below Kaggle Competetion.
 https://www.kaggle.com/c/ieee-fraud-detection
 
